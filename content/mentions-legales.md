@@ -12,7 +12,7 @@ L'édition du site [https://adno.app/](https://adno.app) est assurée par l'asso
 Téléphone 05 49 50 33 08 - courriel : contact[@]emf.fr  
 Le Directeur de la publication est : Mario Cottron
 
-L'hébergement du site [https://adno.app/](https://adno.app) est assuré par la société [Github Inc](https://github.com/about), dont le siège social est situé 88 Colin P. Kelly Jr ST CA 94107 99404 San Francisco. 
+L'hébergement du site [https://adno.app/](https://adno.app) est assuré par la société [Github Inc](https://github.com/about), dont le siège social est situé 88 Colin P. Kelly Jr ST CA 94107 99404 San Francisco (États-Unis). 
 
 ## Conditions générales d'utilisation 
 
@@ -37,7 +37,14 @@ Le site est accessible gratuitement en tout lieu à tout Utilisateur ayant un ac
 
 ### Art. 2 : Collecte des données
 
-Le site est exempté de déclaration à la Commission Nationale Informatique et Libertés (CNIL) dans la mesure où il ne collecte aucune donnée concernant les Utilisateurs.
+Le site ne requiert aucune ouverture de compte par les Utilisateurs et il ne collecte aucune donnée concernant les Utilisateurs.
+
+Un formulaire de contact nous permet de recevoir, gérer et répondre aux questions relatives aux objectifs et aux fonctionnement du site. Ce formulaire collecte les données personnelles suivants : nom, courriel. Le renseignement de ce formulaire est libre et basé sur le consentement. Le responsable de ce traitement est l'Espace Mendès France, Poitiers.
+
+Conformément à la Loi Informatique et Libertés et Règlement général sur la protection des données (RGPD), vous disposez d’un droit d’accès, de modification, de suppression et d’opposition au traitement de vos données à caractère personnel. Pour faire valoir ce droit ou pour tout autre demande relative à la gestion des données personnelles, adressez un message à contact[@]emf.fr ou via le [formulaire du site](/contact/). 
+
+Le service de contact est opéré par le service [Un-static](https://un-static.com/) dont le siège social est situé Prinses Margrietplantsoen 33, 2595 AM, The Hague (Pays-Bas).
+
 
 ### Art. 3 : Propriété intellectuelle
 
@@ -113,6 +120,6 @@ CGU réalisées à partir du site http://legalplace.fr/
 
 ## Modifications 
 
-- 26 juin 2022 - changement de l'hébergement du site.
+- 26 juin 2022 - actualisation sur le formulaire de contact, changement d'hébergeur.
 - 25 juin 2022 - version initiale.
 
