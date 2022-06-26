@@ -12,7 +12,7 @@ L'édition du site [https://adno.app/](https://adno.app) est assurée par l'asso
 Téléphone 05 49 50 33 08 - courriel : contact[@]emf.fr  
 Le Directeur de la publication est : Mario Cottron
 
-L'hébergeur du site [https://adno.app/](https://adno.app) est assuré par la société [Github Inc](https://github.com/about), dont le siège social est situé 88 Colin P. Kelly Jr ST CA 94107 99404 San Francisco. 
+L'hébergement du site [https://adno.app/](https://adno.app) est assuré par la société [Github Inc](https://github.com/about), dont le siège social est situé 88 Colin P. Kelly Jr ST CA 94107 99404 San Francisco. 
 
 ## Conditions générales d'utilisation 
 
