@@ -24,8 +24,6 @@ Les présentes CGU sont accessibles sur le site à la rubrique « Mentions léga
 
 Adno est une application web de visualisation, d’édition et de partage pair-à-pair de narrations et de parcours sur des images accessibles via le standard IIIF. Les images IIIF ne sont pas hébergées par le site mais distribuées par des services tiers. 
 
-un standard pour diffuser des images IIIF de façon distribuée, Adno est à la fois un visualiser et un éditeur dans les deux sens du terme : pour sélectionner, dessiner les annotations et les partager sur le Web.  
-
 Le site [https://adno.app/](https://adno.app) permet à l'Utilisateur un accès gratuit aux services suivants :
 
 - la visualisation d'images,
