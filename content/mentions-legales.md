@@ -4,7 +4,7 @@ date: 2022-05-26T21:08:09+02:00
 type: page
 ---
 
-En vigueur au 25/06/2022
+En vigueur au 26/06/2022
 
 ## Mentions légales 
 
@@ -12,7 +12,7 @@ L'édition du site [https://adno.app/](https://adno.app) est assurée par l'asso
 Téléphone 05 49 50 33 08 - courriel : contact[@]emf.fr  
 Le Directeur de la publication est : Mario Cottron
 
-L'hébergeur du site [https://adno.app/](https://adno.app) est assuré par la société [Datacampus](https://datacampus.fr/), dont le siège social est situé au 27 avenue René Cassin 86360 Chasseneuil Futuroscope.
+L'hébergeur du site [https://adno.app/](https://adno.app) est assuré par la société [Github Inc](https://github.com/about), dont le siège social est situé 88 Colin P. Kelly Jr ST CA 94107 99404 San Francisco. 
 
 ## Conditions générales d'utilisation 
 
@@ -115,5 +115,6 @@ CGU réalisées à partir du site http://legalplace.fr/
 
 ## Modifications 
 
+- 26 juin 2022 - changement de l'hébergement du site.
 - 25 juin 2022 - version initiale.
 
