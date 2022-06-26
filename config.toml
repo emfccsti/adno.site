@@ -1,0 +1,107 @@
+baseURL = "https://adno.app/"
+defaultContentLanguage = "fr"
+languageCode = "fr"
+
+title = "Adno"
+theme = "gokarna"
+
+# Automatically generate robots.txt
+enableRobotsTXT = true
+
+[menu]
+  [[menu.main]]
+    # Unique identifier for a menu item
+    identifier = "blog"
+    url = "/post/"
+    # You can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # You can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    # Display name
+    name = "Blog"
+    # Weights are used to determine the ordering
+    weight = 2 
+
+  [[menu.main]]
+    identifier = "a-propos"
+    url = "/a-propos/"
+    pre = ""
+    post = ""
+    name = "À-propos"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "mode-emploi"
+    url = "/mode-emploi/"
+    pre = ""
+    post = ""
+    name = "Mode d'emploi"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "mentions-legales"
+    url = "/mentions-legales/"
+    pre = ""
+    post = ""
+    name = "Mentions légales - CGU"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "contact"
+    url = "/contact/"
+    weight = 5
+    pre = "<span data-feather='send'></span>"
+
+
+  [[menu.main]]
+    identifier = "github"
+    url = "https://github.com/emfccsti/adno"
+    weight = 6 
+    # We use feather-icons: https://feathericons.com/
+    pre = "<span data-feather='github'></span>"
+
+[params]
+  # URL for the avatar on homepage
+  # avatarURL = ""
+
+  # Choose one of size-xs, size-s, size-m, size-l & size-xl. (Default: size-m)
+  # avatarSize = ""
+
+  # Description to display on homepage
+  description = "Adno est une application web de visualisation, d’édition et de partage d'annotations sur des images IIIF. "
+
+  # Accent color is displayed when you hover over <a> tags
+  accentColor = "#FF4D4D"
+
+  # Keywords relevant for SEO
+  metaKeywords = ["adno", "iiif", "culture", "sciences", "médiation"]
+
+  # If you want to display posts on the homepage, the options are
+  # "popular" (order posts by weight), "recent" (order posts by date)
+  # or "" (do not display, default option)
+  showPostsOnHomePage = "recent"
+
+  # Footer text
+  footer = "Espace Mendès France, Poitiers. Ce projet a été soutenu par le ministère de la Culture"
+
+  # You can use this to inject any HTML in the <head> tag.
+  # Ideal usecase for this is to import custom js/css or add your analytics snippet
+  customHeadHTML = '''
+<link rel="stylesheet" href="/css/adno.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@recogito/annotorious@2.7.6/dist/annotorious.min.css">
+<!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://stats.emf.fr/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '3']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+  '''

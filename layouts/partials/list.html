@@ -1,0 +1,13 @@
+<div class="container list-posts">
+	<ul>
+		<!-- orders content according to the "publishdate" field in front matter -->
+		{{ range .Pages.ByPublishDate.Reverse }}
+		<li>
+			<h1><span>[
+				{{ $mymonths := index $.Site.Data.mois }}{{ .Date.Day }}
+				{{ index $mymonths (printf "%d" .Date.Month) }} {{ .Date.Year }}
+			]</span> <a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+		</li>
+		{{ end }}
+	</ul>
+</div>
