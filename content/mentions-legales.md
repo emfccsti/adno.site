@@ -6,15 +6,15 @@ type: page
 
 En vigueur au 26/06/2022
 
-## Mentions légales 
+## Mentions légales
 
 L'édition du site [https://adno.app/](https://adno.app) est assurée par l'association Maison des sciences et des techniques / [Espace Mendès France](https://emf.fr), dont le siège social est situé au 1 place de la Cathédrale, 86000 Poitiers.  
 Téléphone 05 49 50 33 08 - courriel : contact[@]emf.fr  
 Le Directeur de la publication est : Mario Cottron
 
-L'hébergement du site [https://adno.app/](https://adno.app) est assuré par la société [Github Inc](https://github.com/about), dont le siège social est situé 88 Colin P. Kelly Jr ST CA 94107 99404 San Francisco (États-Unis). 
+L'hébergement du site [https://adno.app/](https://adno.app) est assuré par la société [Github Inc](https://github.com/about), dont le siège social est situé 88 Colin P. Kelly Jr ST CA 94107 99404 San Francisco (États-Unis).
 
-## Conditions générales d'utilisation 
+## Conditions générales d'utilisation
 
 Les présentes conditions générales d'utilisation (dites « CGU ») ont pour objet l'encadrement juridique des modalités de mise à disposition du site et des services par le centre de culture scientifique, technique et industrielle, l’Espace Mendès France (Poitiers, France) et de définir les conditions d’accès et d’utilisation des services par « l'Utilisateur ».
 
@@ -22,7 +22,7 @@ Les présentes CGU sont accessibles sur le site à la rubrique « Mentions léga
 
 ### Art. 1 : Accès au site
 
-Adno est une application web de visualisation, d’édition et de partage pair-à-pair de narrations et de parcours sur des images accessibles via le standard IIIF. Les images IIIF ne sont pas hébergées par le site mais distribuées par des services tiers. 
+Adno est une application web de visualisation, d’édition et de partage pair-à-pair de narrations et de parcours sur des images accessibles via le standard IIIF. Les images IIIF ne sont pas hébergées par le site mais distribuées par des services tiers.
 
 Le site [https://adno.app/](https://adno.app) permet à l'Utilisateur un accès gratuit aux services suivants :
 
@@ -39,9 +39,9 @@ Le site est accessible gratuitement en tout lieu à tout Utilisateur ayant un ac
 
 Le site ne requiert aucune ouverture de compte par les Utilisateurs et il ne collecte aucune donnée concernant les Utilisateurs.
 
-Un formulaire de contact nous permet de recevoir, gérer et répondre aux questions relatives aux objectifs et aux fonctionnement du site. Ce formulaire collecte les données personnelles suivants : nom, courriel. Le renseignement de ce formulaire est libre et basé sur le consentement. Le responsable de ce traitement est l'Espace Mendès France, Poitiers.
+Un formulaire de contact nous permet de recevoir, gérer et répondre aux questions relatives aux objectifs et aux fonctionnement du site. Ce formulaire collecte les données personnelles suivantes : nom, courriel. Le renseignement de ce formulaire est libre et basé sur le consentement. Le responsable de ce traitement est l'Espace Mendès France, Poitiers.
 
-Conformément à la Loi Informatique et Libertés et Règlement général sur la protection des données (RGPD), vous disposez d’un droit d’accès, de modification, de suppression et d’opposition au traitement de vos données à caractère personnel. Pour faire valoir ce droit ou pour tout autre demande relative à la gestion des données personnelles, adressez un message à contact[@]emf.fr ou via le [formulaire du site](/contact/). 
+Conformément à la Loi Informatique et Libertés et le Règlement général sur la protection des données (RGPD), vous disposez d’un droit d’accès, de modification, de suppression et d’opposition au traitement de vos données à caractère personnel. Pour faire valoir ce droit ou pour tout autre demande relative à la gestion des données personnelles, adressez un message à contact[@]emf.fr ou via le [formulaire du site](/contact/).
 
 Le service de contact est opéré par le service [Un-static](https://un-static.com/) dont le siège social est situé Prinses Margrietplantsoen 33, 2595 AM, The Hague (Pays-Bas).
 
@@ -52,19 +52,19 @@ Les marques, logos, signes ainsi que tous les contenus du site (textes, images, 
 
 La marque [https://adno.app/](https://adno.app) est une marque déposée par Espace Mendès France (Poitiers). Toute représentation et/ou reproduction et/ou exploitation partielle ou totale de cette marque, en dehors de l'usage normal du service, est prohibée.
 
-Les contenus spécifiques à ce site sont publiés sous licence Creative commons [Attribution - Partage dans les Mêmes Conditions](https://creativecommons.org/licenses/by-sa/4.0/legalcode). Les contenus externes utilisés par le service sont publiés selon leurs licences propres. L'Utilisateur doit solliciter l'autorisation préalable du site pour toute reproduction, publication, copie des contenus dont les modalités de diffusion ne sont pas connues ou non libres. 
+Les contenus spécifiques à ce site sont publiés sous licence Creative commons [Attribution - Partage dans les Mêmes Conditions](https://creativecommons.org/licenses/by-sa/4.0/legalcode). Les contenus externes utilisés par le service sont publiés selon leurs licences propres. L'Utilisateur doit solliciter l'autorisation préalable du site pour toute reproduction, publication, copie des contenus dont les modalités de diffusion ne sont pas connues ou non libres.
 
 L'Utilisateur s'engage à ne pas utiliser le site à des fins commerciales ou publicitaires.
 
 Toute représentation totale ou partielle de ce site par quelque procédé que ce soit, sans l’autorisation expresse de l’exploitant du site Internet constituerait une contrefaçon sanctionnée par l’article L 335-2 et suivants du Code de la propriété intellectuelle.
- 
+
 Il est rappelé conformément à l’article L122-5 du Code de propriété intellectuelle que l’Utilisateur qui reproduit, copie ou publie le contenu protégé doit citer l’auteur et sa source.
 
 ### Art. 4 : Responsabilité
 
 Les sources des informations diffusées sur le site [https://adno.app/](https://adno.app) sont réputées fiables mais le site ne garantit pas qu’il soit exempt de défauts, d’erreurs ou d’omissions.
 
-Les informations communiquées sont présentées à titre indicatif et général sans valeur contractuelle. Malgré des mises à jour régulières, le site [https://adno.app/](https://adno.app) ne peut être tenu responsable de la modification des dispositions administratives et juridiques survenant après la publication. De même, le site ne peut être tenue responsable de l’utilisation et de l’interprétation de l’information contenue dans ce site.
+Les informations communiquées sont présentées à titre indicatif et général sans valeur contractuelle. Malgré des mises à jour régulières, le site [https://adno.app/](https://adno.app) ne peut être tenu responsable de la modification des dispositions administratives et juridiques survenant après la publication. De même, le site ne peut être tenu responsable de l’utilisation et de l’interprétation de l’information contenue dans ce site.
 
 Le site [https://adno.app/](https://adno.app) ne peut être tenu pour responsable d’éventuels virus qui pourraient infecter l’ordinateur ou tout matériel informatique de l’Internaute, suite à une utilisation, à l’accès, ou au téléchargement provenant de ce site.
 
@@ -111,15 +111,14 @@ Le site est réalisé avec le logiciel libre [Hugo](https://gohugo.io/) et le th
 
 L'éditeur / visualiseur fait appel principalement aux ressources suivantes :
 - standard [International Image Interoperability Framework](https://iiif.io) (IIIF),
-- standard [Web Annotation Data Model](https://www.w3.org/TR/annotation-model/)
-- logiciel de visualisation [OpenSeadragon](https://openseadragon.github.io/)
-- logiciel d'annotation [Annotorious](https://recogito.github.io/annotorious/) 
+- standard [Web Annotation Data Model](https://www.w3.org/TR/annotation-model/),
+- logiciel de visualisation [OpenSeadragon](https://openseadragon.github.io/),
+- logiciel d'annotation [Annotorious](https://recogito.github.io/annotorious/),
 - développements logiciels réalisés spécifiquement pour Adno.
 
 CGU réalisées à partir du site http://legalplace.fr/
 
-## Modifications 
+## Modifications
 
 - 26 juin 2022 - actualisation sur le formulaire de contact, changement d'hébergeur.
 - 25 juin 2022 - version initiale.
-

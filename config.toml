@@ -20,7 +20,7 @@ enableRobotsTXT = true
     # Display name
     name = "Blog"
     # Weights are used to determine the ordering
-    weight = 2 
+    weight = 2
 
   [[menu.main]]
     identifier = "a-propos"
@@ -56,7 +56,7 @@ enableRobotsTXT = true
   [[menu.main]]
     identifier = "github"
     url = "https://github.com/emfccsti/adno"
-    weight = 6 
+    weight = 6
     # We use feather-icons: https://feathericons.com/
     pre = "<span data-feather='github'></span>"
 
@@ -82,7 +82,7 @@ enableRobotsTXT = true
   showPostsOnHomePage = "recent"
 
   # Footer text
-  footer = "Espace Mendès France, Poitiers. Ce projet a été soutenu par le ministère de la Culture"
+  footer = "Espace Mendès France, Poitiers. Ce projet a été soutenu par le ministère de la Culture."
 
   # You can use this to inject any HTML in the <head> tag.
   # Ideal usecase for this is to import custom js/css or add your analytics snippet

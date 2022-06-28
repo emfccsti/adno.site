@@ -5,9 +5,9 @@ type: "page"
 
 __Adno est une application web de visualisation, d’édition et de partage pair-à-pair de narrations et de parcours sur des images IIIF.__
 
-Porté par l'[Espace Mendès France](https://emf.fr) - Poitiers, en partenariat avec l'[Abbaye de Saint-Savin-sur-Gartempe et la vallée des fresques](https://www.abbaye-saint-savin.fr/), la [Bibliothèque Sainte-Geneviève](https://www.bsg.univ-paris3.fr/iguana/www.main.cls), Paris, la [Cité internationale de la bande dessinée et de l'image](http://www.citebd.org/),Angoulême, les [Musées de Poitiers](https://www.poitiers.fr/c__231_977__accueil_musee_sainte_croix.html), le [Muséum d’histoire naturelle de La Rochelle](https://museum.larochelle.fr/), Adno  a été retenu parmi les seize lauréats de l’édition 2022 de l’appel à projets [Services numériques innovants](https://www.culture.gouv.fr/Presse/Communiques-de-presse/Resultats-de-l-appel-a-projets-Services-numeriques-innovants-2022)porté par le ministère de la Culture.
+Porté par l'[Espace Mendès France](https://emf.fr) - Poitiers, en partenariat avec l'[Abbaye de Saint-Savin-sur-Gartempe et la vallée des fresques](https://www.abbaye-saint-savin.fr/), la [Bibliothèque Sainte-Geneviève](https://www.bsg.univ-paris3.fr/iguana/www.main.cls), Paris, la [Cité internationale de la bande dessinée et de l'image](http://www.citebd.org/), Angoulême, les [Musées de Poitiers](https://www.poitiers.fr/c__231_977__accueil_musee_sainte_croix.html), le [Muséum d’histoire naturelle de La Rochelle](https://museum.larochelle.fr/), Adno  a été retenu parmi les seize lauréats de l’édition 2022 de l’appel à projets [Services numériques innovants](https://www.culture.gouv.fr/Presse/Communiques-de-presse/Resultats-de-l-appel-a-projets-Services-numeriques-innovants-2022) porté par le ministère de la Culture.
 
-![Logos](/logos/bloc-logos.png) 
+![Logos](/logos/bloc-logos.png)
 
 ## Origine de Adno
 
@@ -26,7 +26,7 @@ Si les serveurs et les visualiseurs IIIF sont répandus et matures, les outils �
 
 En associant étroitement visualisation et édition, Adno tente de dépasser les limites de l’existant et apporte une solution accessible et conviviale aux chercheurs, aux artistes, aux enseignants, aux médiateurs culturels et scientifiques. Elle vise à développer de nouveaux usages créatifs et pédagogiques.
 
-## Description 
+## Description
 
 Adno permet d’explorer une œuvre ou un document dans son ensemble ou par ses détails, de présenter des connaissances, de raconter des histoires, de dessiner ou de taguer, etc. et en pratique, de lire et d’écrire des annotations et de les partager simplement.  
 
@@ -40,14 +40,14 @@ L'InterPlanetary File System (IPFS) est le protocole utilisé par Adno pour part
 
 Adno repose sur des standards ouverts et des composants libres. Il est développé de manière agile en respectant les bonnes pratiques (code, tests, documentation, accessibilité, etc.).  C’est un service en ligne (adno.app), un logiciel autonome et un composant naturellement intégrable aux technologies du Web3 : web sémantique, intelligence artificielle, blockchain, etc.
 
-Par conception, le recours aux protocoles IPFS et IIIF contribue à limiter la consommation énergétique. Les  listes d'annotations sont textuelles et donc très légères, les images y sont seulement référencées. Enfin, seules les parties d'images nécessaires sont téléchargées. 
+Par conception, le recours aux protocoles IPFS et IIIF contribue à limiter la consommation énergétique. Les  listes d'annotations sont textuelles et donc très légères, les images y sont seulement référencées. Enfin, seules les parties d'images nécessaires sont téléchargées.
 
 Adno facilite la diffusion et la visibilité des contenus culturels et contribue à l’amélioration des moyens techniques permettant l’interopérabilité et la réutilisation, en adéquation avec la feuille de route « données et contenus culturels » du ministère de la culture.
 
-## Caractère innovant 
+## Caractère innovant
 
 IIIF offre un accès simplifié et uniforme à des fonctions avancées d’interactions avec les documents : exploration fluide et enrichie des images (zoom profond, rotation, etc.), visualisation multi-couches et multispectrales, comparaison et annotation de zones, etc.
- 
+
 Adno est un outil commun au service des humanités numériques, de l’éducation, de la recherche et de la création. Il rend abordable et populaire deux technologies innovantes et prometteuses : IIIF et IPFS. Ces approches fondamentalement décentralisées et collaboratives concrétisent le potentiel du web sémantique et préfigurent le web distribué.   
 
 Adno ouvre des nombreuses perspectives : prise en charge des audios, des vidéos et des objets 3D, édition collaborative, production participative (crowdsourcing), développement de modules pours logiciels spécialisés de bibliothèques numériques ou de publication, connexion avec des dispositifs de reconnaissances de formes (IA), etc.
