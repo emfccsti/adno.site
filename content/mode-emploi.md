@@ -61,6 +61,7 @@ Ou encore essayer une des images suivantes :
 [https://gallica.bnf.fr/iiif/ark:/12148/btv1b69162903/f1/info.json](/?url=https://gallica.bnf.fr/iiif/ark:/12148/btv1b69162903/f1/info.json)
 - __Un souvenir de vacances__ Une « planche de science » réalisée par Camille Arnoult du lycée Camille Jullian (Bordeaux).  
 [https://iiif.emf.fr/iiif/3/UnSouvenirDeVacances.jp2/info.json](/?url=https://iiif.emf.fr/iiif/3/UnSouvenirDeVacances.jp2/info.json)
+- etc.
 
 ## Adno repose sur des logiciels libres
 
