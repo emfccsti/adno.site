@@ -65,6 +65,10 @@ Ou encore essayer une des images suivantes :
 Il est possible d'utiliser des images autres que IIIF
 - __Sonde Cassini__ DZI (Deep Zoom Image)  
 [https://static.emf.fr/dev/dzi/cassini.dzi](https://adno.app/?url=https://static.emf.fr/dev/dzi/cassini.dzi)
+- __Mario__ image statique au format png
+[https://www.pngmart.com/files/2/Mario-PNG-Image.png](https://adno.app/?url=https://www.pngmart.com/files/2/Mario-PNG-Image.png)
+- __Panorama du Grand Canyon depuis la rive sud (Hopi Point)__ image statique au format jpg (Jean-Christophe Benoist, CC BY-SA)  
+[https://upload.wikimedia.org/wikipedia/commons/3/3c/Grand_Canyon_-_Hopi_Point.JPG](https://adno.app?url=https://fr.wikipedia.org/wiki/Grand_Canyon#/media/Fichier:Grand_Canyon_-_Hopi_Point.JPG)
 
 ## Adno repose sur des logiciels libres
 
