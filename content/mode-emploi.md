@@ -61,7 +61,10 @@ Ou encore essayer une des images suivantes :
 [https://gallica.bnf.fr/iiif/ark:/12148/btv1b69162903/f1/info.json](/?url=https://gallica.bnf.fr/iiif/ark:/12148/btv1b69162903/f1/info.json)
 - __Un souvenir de vacances__ Une « planche de science » réalisée par Camille Arnoult du lycée Camille Jullian (Bordeaux).  
 [https://iiif.emf.fr/iiif/3/UnSouvenirDeVacances.jp2/info.json](/?url=https://iiif.emf.fr/iiif/3/UnSouvenirDeVacances.jp2/info.json)
-- etc.
+
+Il est possible d'utiliser des images autres que IIIF
+- __Sonde Cassini__ DZI (Deep Zoom Image)  
+[https://static.emf.fr/dev/dzi/cassini.dzi](https://adno.app/?url=https://static.emf.fr/dev/dzi/cassini.dzi)
 
 ## Adno repose sur des logiciels libres
 
