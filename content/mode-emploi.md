@@ -68,7 +68,7 @@ Il est possible d'utiliser des images autres que IIIF
 - __Mario__ image statique au format png
 [https://www.pngmart.com/files/2/Mario-PNG-Image.png](https://adno.app/?url=https://www.pngmart.com/files/2/Mario-PNG-Image.png)
 - __Panorama de Poitiers__ image statique au format jpg (Lucas Aless)  
-[https://commons.wikimedia.org/wiki/File:Poitiers_panorama_01.jpg](https://adno.app?url=https://commons.wikimedia.org/wiki/File:Poitiers_panorama_01.jpg)
+[https://upload.wikimedia.org/wikipedia/commons/1/1d/Poitiers_panorama_01.jpg](https://adno.app?url=https://upload.wikimedia.org/wikipedia/commons/1/1d/Poitiers_panorama_01.jpg)
 
 ## Adno repose sur des logiciels libres
 
