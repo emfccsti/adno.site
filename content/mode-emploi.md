@@ -62,9 +62,13 @@ Ou encore essayer une des images suivantes :
 - __Un souvenir de vacances__ Une « planche de science » réalisée par Camille Arnoult du lycée Camille Jullian (Bordeaux).  
 [https://iiif.emf.fr/iiif/3/UnSouvenirDeVacances.jp2/info.json](/?url=https://iiif.emf.fr/iiif/3/UnSouvenirDeVacances.jp2/info.json)
 
+Les images précédentes sont fournies par des serveurs IIIF. Cepandant, il est possible de s'en passer et de fournir une image statique IIIF composée d'un fichier `info.json` et d'une arborescence de tuiles. Cf. ce [tuto](http://ronallo.com/iiif-workshop-new/image-api/image-servers/static.html).
+- __Étoiles de mer__ Image statique IIIF. Voir la structure à [cette adresse](https://static.emf.fr/adno/static/iiif/starfish/)   
+[https://static.emf.fr/adno/static/iiif/starfish/info.json](https://adno.app/?url=https://static.emf.fr/adno/static/iiif/starfish/info.json)
+
 Il est possible d'utiliser des images autres que IIIF
-- __Sonde Cassini__ DZI (Deep Zoom Image)  
-[https://static.emf.fr/dev/dzi/cassini.dzi](https://adno.app/?url=https://static.emf.fr/dev/dzi/cassini.dzi)
+- __Sonde Cassini__ DZI (Deep Zoom Image). Voir la structure à [cette adresse](https://static.emf.fr/adno/static/dzi/)  
+[https://static.emf.fr/dev/dzi/cassini.dzi](https://adno.app/?url=https://static.emf.fr/adno/static/dzi/cassini.dzi)
 - __Mario__ image statique au format png  
 [https://www.pngmart.com/files/2/Mario-PNG-Image.png](https://adno.app/?url=https://www.pngmart.com/files/2/Mario-PNG-Image.png)
 - __Panorama de Poitiers__ image statique au format jpg (Lucas Aless)  
