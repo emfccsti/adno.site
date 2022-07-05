@@ -65,7 +65,7 @@ Ou encore essayer une des images suivantes :
 Il est possible d'utiliser des images autres que IIIF
 - __Sonde Cassini__ DZI (Deep Zoom Image)  
 [https://static.emf.fr/dev/dzi/cassini.dzi](https://adno.app/?url=https://static.emf.fr/dev/dzi/cassini.dzi)
-- __Mario__ image statique au format png
+- __Mario__ image statique au format png  
 [https://www.pngmart.com/files/2/Mario-PNG-Image.png](https://adno.app/?url=https://www.pngmart.com/files/2/Mario-PNG-Image.png)
 - __Panorama de Poitiers__ image statique au format jpg (Lucas Aless)  
 [https://upload.wikimedia.org/wikipedia/commons/1/1d/Poitiers_panorama_01.jpg](https://adno.app?url=https://upload.wikimedia.org/wikipedia/commons/1/1d/Poitiers_panorama_01.jpg)
