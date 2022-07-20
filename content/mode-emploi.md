@@ -37,6 +37,8 @@ Vous pouvez entrer votre propre image IIIF
 {{< /rawhtml >}}
 
 Ou encore essayer une des images suivantes :
+- __Atelier d'idéation d'Adno__ par les participants à la réunion du 23 juin  
+[https://iiif.emf.fr/iiif/3/ideation.jpg/info.json](https://adno.app/?url=https://iiif.emf.fr/iiif/3/ideation.jpg/info.json) 
 - __Voûte de l'abbaye de Saint-Savin__  
 [https://iiif.emf.fr/iiif/3/saint-savin.jpg/info.json](/?url=https://iiif.emf.fr/iiif/3/saint-savin.jpg/info.json)
 - __Tite-Live, Histoire romaine, version française par Pierre Bersuire__ Manuscrits de la Bibliothèque Sainte-Geneviève.    
