@@ -55,7 +55,7 @@ enableRobotsTXT = true
 
   [[menu.main]]
     identifier = "github"
-    url = "https://github.com/emfccsti/adno"
+    url = "https://github.com/emfccsti/adno.site"
     weight = 6
     # We use feather-icons: https://feathericons.com/
     pre = "<span data-feather='github'></span>"
