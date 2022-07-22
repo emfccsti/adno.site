@@ -31,12 +31,20 @@ enableRobotsTXT = true
     weight = 1
 
   [[menu.main]]
+    identifier = "exemples"
+    url = "/exemple/"
+    pre = ""
+    post = ""
+    name = "Exemples"
+    weight = 3
+
+  [[menu.main]]
     identifier = "mode-emploi"
     url = "/mode-emploi/"
     pre = ""
     post = ""
     name = "Mode d'emploi"
-    weight = 3
+    weight = 4
 
   [[menu.main]]
     identifier = "mentions-legales"
@@ -44,19 +52,19 @@ enableRobotsTXT = true
     pre = ""
     post = ""
     name = "Mentions légales - CGU"
-    weight = 4
+    weight = 5
 
   [[menu.main]]
     identifier = "contact"
     url = "/contact/"
-    weight = 5
+    weight = 6
     pre = "<span data-feather='send'></span>"
 
 
   [[menu.main]]
     identifier = "github"
     url = "https://github.com/emfccsti/adno.site"
-    weight = 6
+    weight = 7
     # We use feather-icons: https://feathericons.com/
     pre = "<span data-feather='github'></span>"
 

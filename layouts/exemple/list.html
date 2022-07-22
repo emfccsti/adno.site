@@ -1,0 +1,21 @@
+{{ define "main" }}
+<main class="container">
+	<h1>Exemples</h1>
+	<div class="cards">
+ 	{{ range .Data.Pages }}
+		<article class="card">
+			<img src="{{ .Params.thumbnail }}" alt="">
+			<div>
+  				<h3>{{ .Params.title }}</h3>
+  				<p>{{ .Params.description }}</p>
+				<button>
+					<a href="{{ .Site.BaseURL }}?url={{ .Params.link }}&title={{ .Params.title }}">
+						Voir / Éditer
+					</a>
+				</button>
+			</div>
+		</article>
+  	{{ end }}
+	</div>
+</main>
+{{ end }}
