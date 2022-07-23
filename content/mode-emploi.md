@@ -36,22 +36,16 @@ Vous pouvez entrer votre propre image IIIF
 </form>
 {{< /rawhtml >}}
 
-Ou encore essayer une des images suivantes :
+Ou encore essayer une des images suivantes ou celles de la page [exemples](/exemple/) :
+
 - __Atelier d'idéation d'Adno__ par les participants à la réunion du 23 juin  
 [https://iiif.emf.fr/iiif/3/ideation.jpg/info.json](https://adno.app/?url=https://iiif.emf.fr/iiif/3/ideation.jpg/info.json) 
 - __Voûte de l'abbaye de Saint-Savin__  
 [https://iiif.emf.fr/iiif/3/saint-savin.jpg/info.json](/?url=https://iiif.emf.fr/iiif/3/saint-savin.jpg/info.json)
 - __Tite-Live, Histoire romaine, version française par Pierre Bersuire__ Manuscrits de la Bibliothèque Sainte-Geneviève.    
 [https://gallica.bnf.fr/iiif/ark:/12148/btv1b6001280q/f19/info.json](/?url=https://gallica.bnf.fr/iiif/ark:/12148/btv1b6001280q/f19/info.json)
-- __Table de Peutinger (Tabula Peutingeriana)__ Copie du XIIIe siècle d'une ancienne carte romaine où figurent les routes et les villes principales de l'Empire romain, fac-similé de Konrad Miller de 1887.  
-[https://iiif.emf.fr/iiif/3/peutinger.jp2/info.json](/?url=https://iiif.emf.fr/iiif/3/peutinger.jp2/info.json)
-- __Panorama de Hong Kong__ par [Mark Lehmkuhler](https://www.flickr.com/photos/mark_lehmkuhler/33011219102), prise de vue par drone.  
-[https://iiif.emf.fr/iiif/3/HongKong.jp2/info.json](/?url=https://iiif.emf.fr/iiif/3/HongKong.jp2/info.json)
 - __Tapisserie de Bayeux__ Voir aussi [ici la version restaurée](https://www.bayeuxmuseum.com/la-tapisserie-de-bayeux/decouvrir-la-tapisserie-de-bayeux/explorer-la-tapisserie-de-bayeux-en-ligne/)  
 [https://iiif.lib.ncsu.edu/iiif/xx-bayeux/info.json](/?url=https://iiif.lib.ncsu.edu/iiif/xx-bayeux/info.json)
-- __Mountains & Rivers in th World__ Première édition par G.W. Colton en 1849 de cette représention iconique des principales montagnes et rivières du monde.  
-[https://iiif.emf.fr/iiif/3/coltons-mountains-rivers-infographic-map.jp2/info.json](?url=https://iiif.emf.fr/iiif/3/coltons-mountains-rivers-infographic-map.jp2/info.json)
-[https://iiif.emf.fr/iiif/3/SARS-CoV-2.jp2/info.json](/?url=https://iiif.emf.fr/iiif/3/SARS-CoV-2.jp2/info.json)
 - __Chat "regardant" à travers une longue-vue et autre chat perché dessus (Agence Rol)__ BnF, département Estampes et photographie, EST EI-13 (89).  
 [https://gallica.bnf.fr/iiif/ark:/12148/btv1b69162903/f1/info.json](/?url=https://gallica.bnf.fr/iiif/ark:/12148/btv1b69162903/f1/info.json)
 - __Un souvenir de vacances__ Une « planche de science » réalisée par Camille Arnoult du lycée Camille Jullian (Bordeaux).  
