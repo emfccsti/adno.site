@@ -43,20 +43,13 @@ Ou encore essayer une des images suivantes :
 [https://iiif.emf.fr/iiif/3/saint-savin.jpg/info.json](/?url=https://iiif.emf.fr/iiif/3/saint-savin.jpg/info.json)
 - __Tite-Live, Histoire romaine, version française par Pierre Bersuire__ Manuscrits de la Bibliothèque Sainte-Geneviève.    
 [https://gallica.bnf.fr/iiif/ark:/12148/btv1b6001280q/f19/info.json](/?url=https://gallica.bnf.fr/iiif/ark:/12148/btv1b6001280q/f19/info.json)
-- __Carte de Cassini__ Carte générale de la France. 101, [La Rochelle]. N°101. F.le 97 / [établie sous la direction de César-François Cassini de Thury], Médiathèque Michel-Crépeau / La Rochelle, 1 Pl 123.  
-[https://gallica.bnf.fr/iiif/ark:/12148/bd6t52534181/f1/info.json](/?url=https://gallica.bnf.fr/iiif/ark:/12148/bd6t52534181/f1/info.json)
 - __Table de Peutinger (Tabula Peutingeriana)__ Copie du XIIIe siècle d'une ancienne carte romaine où figurent les routes et les villes principales de l'Empire romain, fac-similé de Konrad Miller de 1887.  
 [https://iiif.emf.fr/iiif/3/peutinger.jp2/info.json](/?url=https://iiif.emf.fr/iiif/3/peutinger.jp2/info.json)
-- __Blue Marble 2012__ Credit: NASA/NOAA/GSFC/Suomi NPP/VIIRS/Norman Kuring.  
-[https://iiif.emf.fr/iiif/3/SuomiNPP_earth_full.jp2/info.json](/?url=https://iiif.emf.fr/iiif/3/SuomiNPP_earth_full.jp2/info.json)
 - __Panorama de Hong Kong__ par [Mark Lehmkuhler](https://www.flickr.com/photos/mark_lehmkuhler/33011219102), prise de vue par drone.  
 [https://iiif.emf.fr/iiif/3/HongKong.jp2/info.json](/?url=https://iiif.emf.fr/iiif/3/HongKong.jp2/info.json)
-- __CellXplorer (eukaryotic and prokaryotic cells)__ Extrait d'un [cours en ligne edX (Harvard)](https://courses.edx.org/courses/course-v1:HarvardX+MCB64.1x+2T2016/d16e07a5cec442eeb7cd9dfcb695dce0/) consacré à la biologie cellulaire.  
-[https://images.harvardx.harvard.edu/iiif/cellx/euk_cell.jpg/info.json](/?url=https://images.harvardx.harvard.edu/iiif/cellx/euk_cell.jpg/info.json)
 - __Tapisserie de Bayeux__ Voir aussi [ici la version restaurée](https://www.bayeuxmuseum.com/la-tapisserie-de-bayeux/decouvrir-la-tapisserie-de-bayeux/explorer-la-tapisserie-de-bayeux-en-ligne/)  
 [https://iiif.lib.ncsu.edu/iiif/xx-bayeux/info.json](/?url=https://iiif.lib.ncsu.edu/iiif/xx-bayeux/info.json)
-- __Coronavirus SARS-CoV-2__ Transmission electron micrograph of SARS-CoV-2 virus particles (gold) within endosomes of a heavily infected nasal Olfactory Epithelial Cell. Credit: [NIAID](https://www.flickr.com/photos/niaid)  
-- __Mountains & Rivers in th World__ Première édition par G.W. Colton en 1849 de cette représention iconique des prrincipales montagnes et rivières du monde.  
+- __Mountains & Rivers in th World__ Première édition par G.W. Colton en 1849 de cette représention iconique des principales montagnes et rivières du monde.  
 [https://iiif.emf.fr/iiif/3/coltons-mountains-rivers-infographic-map.jp2/info.json](?url=https://iiif.emf.fr/iiif/3/coltons-mountains-rivers-infographic-map.jp2/info.json)
 [https://iiif.emf.fr/iiif/3/SARS-CoV-2.jp2/info.json](/?url=https://iiif.emf.fr/iiif/3/SARS-CoV-2.jp2/info.json)
 - __Chat "regardant" à travers une longue-vue et autre chat perché dessus (Agence Rol)__ BnF, département Estampes et photographie, EST EI-13 (89).  
