@@ -1,9 +1,10 @@
 ---
 title: "Adno"
 type: "page"
+translationKey: about
 ---
 
-__Adno is a web application for viewing, editing, and sharing peer-to-peer of narratives and stories on IIIF images.__ 
+__Adno is a web application for viewing, editing, and peer-to-peer sharing of narratives and stories on IIIF images.__ 
 
 Developed by [Espace Mendès France](https://emf.fr) (Poitiers), in partnership with the [Saint-Savin-sur-Gartempe abbey and the valley of frescoes](https://www.abbaye-saint-savin.fr/), the [Sainte-Geneviève Library](https://www.bsg.univ-paris3.fr/iguana/www.main.cls) (Paris), the [Cité internationale de la bande-dessinée et de l’image](http://www.citebd.org/) (Angoulême), [Poitiers’ museums](https://www.poitiers.fr/c__231_977__accueil_musee_sainte_croix.html), La [Rochelle’s Natural History Museum](https://museum.larochelle.fr/), Adno was selected among the sixteen winners of the 2022 edition of the [call for innovative digital services projects](https://www.culture.gouv.fr/Presse/Communiques-de-presse/Resultats-de-l-appel-a-projets-Services-numeriques-innovants-2022) led by the Ministry of Culture..
 
@@ -11,7 +12,7 @@ Developed by [Espace Mendès France](https://emf.fr) (Poitiers), in partnership 
 
 ## Adno’s origin
 
-A cultural actor who wishes to put his image collections online is faced with complex choices. The solutions are too often expensive, not very scalable and, above all, incompatible with each other, even though they attempt to meet common needs.
+A cultural actor who wishes to put his image collections online is faced with complex choices. The solutions are too often expensive, not very evolutive and, above all, incompatible with each other, even though they attempt to meet common needs.
 
 [IIIF](https://iiif.io) was created after noticing that images sharing on the web was « too slow, too expensive, too disjoint and too complex ». It was launched in 2015 by the British Library, France National Library, Die Bayerische Staatsbibliothek, Nasjonalbiblioteket, Artstor, Wellcome Trust, and the following universities : Cornell, Oxford, Princeton, Stanford et Yale. The consortium gathers today around sixty research libraries, national libraries, archives, socities and aggregator from all round the world. Many professionals and amators are also contributing to the dynamism of the community. 
 

@@ -2,6 +2,7 @@
 title: "Mode d'emploi"
 date: 2022-05-25T13:18:58+02:00
 type: page
+translationKey: how-to
 ---
 
 ## Pour commencer

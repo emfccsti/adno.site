@@ -1,12 +1,25 @@
 baseURL = "https://adno.app/"
 defaultContentLanguage = "fr"
-languageCode = "fr"
 
 title = "Adno"
 theme = "gokarna"
 
 # Automatically generate robots.txt
 enableRobotsTXT = true
+
+[languages]
+  [languages.fr]
+    contentDir = "content/fr"
+    title = "Adno"
+    languageName = "French"
+    languageCode = "fr"
+    weight = 1
+  [languages.en]
+    contentDir = "content/en"
+    title = "Adno"
+    languageName = "English"
+    languageCode = "en"
+    weight = 2
 
 [menu]
   [[menu.main]]

@@ -1,6 +1,7 @@
 ---
 title: "Adno"
 type: "page"
+translationKey: about
 ---
 
 __Adno est une application web de visualisation, d’édition et de partage pair-à-pair de narrations et de parcours sur des images IIIF.__

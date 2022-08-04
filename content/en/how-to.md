@@ -2,6 +2,7 @@
 title: "How to"
 date: 2022-08-04T13:18:58+02:00
 type: page
+translationKey: how-to 
 ---
 
 ## To get started
